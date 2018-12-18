@@ -1,6 +1,6 @@
 #React Meme Generator 
 
-![Meme Maker Screenshot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Meme Maker Screenshot](https://github.com/tomxbarnesx/meme-generator-react/blob/master/Screen%20Shot%202018-12-18%20at%203.45.49%20PM.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
