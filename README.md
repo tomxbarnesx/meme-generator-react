@@ -2,7 +2,7 @@
 
 # React Meme Generator
 
-Simple project experimenting with React's forms and onChange methods. Play with it on Github Pages here: https://tomxbarnesx.github.io/meme-generator-react/
+Simple project experimenting with React forms, onChange and lifecycle methods and the ImgFlip API. Fully mobile responsive. Make your own on Github Pages here: https://tomxbarnesx.github.io/meme-generator-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
