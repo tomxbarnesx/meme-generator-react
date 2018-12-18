@@ -1,6 +1,8 @@
-#React Meme Generator 
-
 ![Meme Maker Screenshot](https://github.com/tomxbarnesx/meme-generator-react/blob/master/Screen%20Shot%202018-12-18%20at%203.45.49%20PM.png)
+
+# React Meme Generator
+
+Simple project experimenting with React's forms and onChange methods. Play with it on Github Pages here: https://tomxbarnesx.github.io/meme-generator-react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
